@@ -6,7 +6,7 @@ int	main()
 	char str[3],stt;
 	
 
-	printf("Entrer un nombre \n"); 
+	printf("Entrer un nombre entier de trois chiffres :  \n"); 
 	scanf("%s",str);
 	
 	stt=str[0];
